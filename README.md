@@ -4,11 +4,13 @@ It is made using python and one of its libraries tkinter. It save the recorded f
 
 
 ---------- Directions to open: ----------
+
 Download the zip file, then open the .exe file named as ScreenRec.exe.
 After the opening of file, rename the file which you want to give to the recording.
 After renaming of file, click on 'start' button to start the recording. 
 Play with 'play' and 'pause' button to pause and resume the recording. 
 Click on the 'stop' button to stop the recording.
+
 -----------------------------------------
 
 
